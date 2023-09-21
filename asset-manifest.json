@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://d-hussar.github.io/csb-9rwpmp/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://d-hussar.github.io/csb-9rwpmp/static/js/main.40c25335.chunk.js",
+    "main.js.map": "https://d-hussar.github.io/csb-9rwpmp/static/js/main.40c25335.chunk.js.map",
+    "runtime-main.js": "https://d-hussar.github.io/csb-9rwpmp/static/js/runtime-main.1c360577.js",
+    "runtime-main.js.map": "https://d-hussar.github.io/csb-9rwpmp/static/js/runtime-main.1c360577.js.map",
+    "static/js/2.df5dacc5.chunk.js": "https://d-hussar.github.io/csb-9rwpmp/static/js/2.df5dacc5.chunk.js",
+    "static/js/2.df5dacc5.chunk.js.map": "https://d-hussar.github.io/csb-9rwpmp/static/js/2.df5dacc5.chunk.js.map",
+    "index.html": "https://d-hussar.github.io/csb-9rwpmp/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://d-hussar.github.io/csb-9rwpmp/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.df5dacc5.chunk.js.LICENSE.txt": "https://d-hussar.github.io/csb-9rwpmp/static/js/2.df5dacc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c360577.js",
+    "static/js/2.df5dacc5.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.40c25335.chunk.js"
+  ]
+}
